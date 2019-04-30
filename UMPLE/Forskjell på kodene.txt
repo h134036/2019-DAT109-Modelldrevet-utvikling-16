@@ -1,0 +1,8 @@
+Vi hadde ikke EXPO oppgaven, så vi kan ikke sammenligne med den.
+Vi har funnet inspirasjon fra andre grupper sitt arbeid for å lage domenemodell og tilstandsdiagram.
+
+Forskjeller på den genererte koden fra domene og tilstand:
+Java-kode for domene gir oss 2076 linjer med kode tilsammen for alle klassene.
+Java-kode for tilstand gir 231 linjer.
+
+Vi er klar over at det ikke er dette det spørres om i oppgaven.
