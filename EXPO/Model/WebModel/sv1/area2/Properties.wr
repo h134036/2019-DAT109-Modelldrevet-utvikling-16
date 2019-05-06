@@ -1,0 +1,8 @@
+<Area xmlns:gr="http://www.webratio.com/2006/WebML/Graph" id="sv1#area2" name="User" defaultPage="sv1#area2#miu3" landmarks="sv1#area2#page3 sv1#area2#miu3" landmark="true" gr:x="-130" gr:y="20">
+  <OperationUnits>
+    <ModuleInstanceUnit id="sv1#area2#miu3" name="Stemme" landmark="true" gr:x="180" gr:y="365" action="true" linkOrder="sv1#area2#miu3#ln11">
+      <Link id="sv1#area2#miu3#ln11" name="Flow11" to="sv1#area2#page5" automaticCoupling="true" type="transport" validate="true"/>
+    </ModuleInstanceUnit>
+    <ModuleInstanceUnit id="sv1#area2#miu4" name="Stand_ny" gr:x="175" gr:y="70" action="true"/>
+  </OperationUnits>
+</Area>
