@@ -1,0 +1,43 @@
+<Page xmlns:gr="http://www.webratio.com/2006/WebML/Graph" xmlns:layout="http://www.webratio.com/2006/WebML/Layout" id="sv2#page9" name="ShoppingCart" gr:x="210" gr:y="165">
+  <ContentUnits>
+    <PowerIndexUnit id="sv2#page9#pwu3" name="ProductList" linkOrder="sv2#page9#pwu3#ln10 sv2#page9#pwu3#ln11" gr:x="0" gr:y="0" sortable="true" checkable="false" useCountQuery="false" entity="ent2">
+      <Link id="sv2#page9#pwu3#ln10" name="Flow3" to="sv2#miu3" type="normal" automaticCoupling="true" validate="true"/>
+      <Link id="sv2#page9#pwu3#ln11" name="Flow4" to="sv2#miu4" type="normal" automaticCoupling="true" validate="true"/>
+    </PowerIndexUnit>
+  </ContentUnits>
+  <layout:Grid containerType="grid">
+    <layout:Row>
+      <layout:Cell colspan="12">
+        <layout:Unit unitId="sv2#page9#pwu3">
+          <layout:Link link="sv2#page9#pwu3#ln10"/>
+          <layout:Link link="sv2#page9#pwu3#ln11"/>
+        </layout:Unit>
+      </layout:Cell>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+    </layout:Row>
+    <layout:Row>
+      <layout:Cell colspan="12"/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+      <layout:Cell/>
+    </layout:Row>
+  </layout:Grid>
+</Page>
